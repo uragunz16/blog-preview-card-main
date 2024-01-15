@@ -11,7 +11,7 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Yellow: hsl(47, 88%, 63%)
+- Yellow: hsl(47, 88%, 63%) //Done
 
 ### Neutral
 
